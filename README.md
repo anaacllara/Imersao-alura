@@ -7,12 +7,12 @@ Project made by inspiration on Spotifys landing page. It was structures in 5 day
 Instruções: Você pode copiar o código e colar em algum ambiente de desenvolvimento.
 ```bash
 # Clone o repositório
-git clone https://github.com/anaacllara/Imersao-alura.git
+git clone https://github.com/anaacllara/Imersao-Alura-Frontend.git
 ```
 Instructions: You can copy the code and paste in some development environment. 
 ```bash
 # Clone the repository
-git clone https://github.com/anaacllara/Imersao-alura.git
+git clone https://github.com/anaacllara/Imersao-Alura-Frontend.git
 ```
 ## Uso / Use 
 Como usar o projeto:
